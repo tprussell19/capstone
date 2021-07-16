@@ -1,0 +1,26 @@
+Name of Student: Thomas Russell
+
+Name of Project: Personal Portfolio for Betsy Sauer
+
+Project’s Purpose or Goal: Provide a place for users to see examples of Betsy’s work as a hairdresser/stylist and provide biographical and contact info
+
+List the absolute minimum features the project requires to meet this purpose or goal:
+        - display images of her work
+        - provide contact info for setting up appointments
+        - provide an “about me” section to display some biographical info and qualifications
+
+What tools, frameworks, libraries, APIs, modules and/or other resources (whatever is specific to your track, and your language) will you use to create this MVP? List them all here. Be specific.
+        - JavaScript, React, HTML, CSS, Bootstrap?
+
+If you finish developing the minimum viable product (MVP) with time to spare, what will you work on next? Describe these features here: Be specific.
+        - link instagram feed through API and cycle through photos on homepage as well as dedicated images page (maybe group by style or color?)
+        - allow users to check availability and make appointments through the website (would require authentication)
+        - if above doesn’t work, provide form to submit request for appointment
+
+What additional tools, frameworks, libraries, APIs, or other resources will these additional features require?
+        - Instagram API
+        - authentication (probably with Auth0)
+        - storage for appointments (Firebase or similar?)
+
+Is there anything else you’d like your instructor to know?
+        - I have a friend who is a hairdresser/stylist here in Portland and she doesn’t have a personal website yet. My goal is to build one for her that won’t require a lot of maintenance/updates and can display her talents so that she can attract more clients. Ideally, this would include the ability to schedule an appointment right through the app but that is definitely a stretch goal at this point.
