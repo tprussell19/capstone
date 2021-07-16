@@ -1,0 +1,18 @@
+Websites for some of the top salons in Portland:
+  - http://www.seventysevensalon.com/
+  - https://www.alisthairstudio.com/
+  - https://chachihair.com/
+  - http://www.chameleonnw.com/
+  - https://www.codasalon.com/
+
+Notes:
+  - most do not use React
+  - most use splash pages with very little info but either big graphics or covid info with a button or navbar to click to enter full site
+  - navbars for easy navigation throughout site
+  - big, professional photos everywhere (might need more than phone pics on IG)
+  - shots of salon, equipment, products, stylists
+  - not a ton of shots of work on clients
+  - external services for booking appointments (vagaro)
+  - clean, minimalist styling (sans-serif fonts, no bullet points, lots of ALL CAPS elements outside of large blocks of text)
+  - mostly white or black backgrounds
+  - any awards or qualifications on splash and/or home page
