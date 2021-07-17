@@ -16,3 +16,43 @@ Notes:
   - clean, minimalist styling (sans-serif fonts, no bullet points, lots of ALL CAPS elements outside of large blocks of text)
   - mostly white or black backgrounds
   - any awards or qualifications on splash and/or home page
+
+More websites I checked out for ideas:
+  - https://www.appelnouveausalon.com/
+      Love the simple splash page
+      minimal navbar
+      static logo in top left (talk to Betsy about either personal or salon logo to use on page as stand in for "home" button on navbar)
+      linking to services at the end of bios
+      consistent background image at bottom of page scroll with rollover options that link to different parts
+      consistent conatct/location info accross pages so you never have leave whatever page you're on to get in touch
+
+  - https://modsalonpdx.com/
+      nice big background image on home page
+      defaults to scheduling an appointment
+      most other info not available on the site yet. bad look (do not deploy until everything is finished and looks good!)
+      styling simple but not in an artistic/good way (simple still needs to look good!)
+      all pages except home shrink background image and are left looking very basic
+      good example of what not to do
+
+  - https://www.koasalon.com/
+      splash page (pop-up?) asking folks to sign up for the mailing list
+      lots of text boxes with semi-transparent background colors displayed over different background images (looks really busy)
+      inconsistent capitalization, punctuation (drives me crazy)
+      somewhere between 8-10 different fonts/styles on one page (looks like a middle school powerpoint project)
+      service menu has some formatting issues but I do really like the idea of having visual examples of the types of services offered alongside the prices so that potential clients can see what they're going to be paying for
+
+  - https://carbonsalonpdx.com/
+      "Who We Are" right out front so that you get the vibe of the place
+      breaks up the services page into subcategories (might not need this since Betsy just does cut/color/styling but might also be a good way to keep things clean and not make the clients have to scroll forever to see all of the options)
+      external service for booking appointments
+      links Instagram feed
+      appears that IG feed was limited to 10 entries in a 12 square grid (make sure number of entries makes sense with layout choices)
+
+  - http://propagandathesalon.com/
+      use professional models in addition to an instagram feed of "regular" people
+      header shrinks on scroll
+      contact info at the bottom of each page but not in a persistent footer like some others
+      every page has the header, a banner photo, and then the content for that page. It give the site a nice consistency across all of its pages while still providing some novelty with a new banner photo for each page
+      simple and somewhat small photos of the stylists in black and white with just their names and no biographical info or anything more
+      external scheduling tool (schedulicity)
+      does provide a form for contacting the salon for "general questions and inquiries" but advises users to book through their booking page and provides a link to it
