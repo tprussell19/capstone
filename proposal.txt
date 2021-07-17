@@ -14,13 +14,12 @@ What tools, frameworks, libraries, APIs, modules and/or other resources (whateve
 
 If you finish developing the minimum viable product (MVP) with time to spare, what will you work on next? Describe these features here: Be specific.
         - link instagram feed through API and cycle through photos on homepage as well as dedicated images page (maybe group by style or color?)
-        - allow users to check availability and make appointments through the website (would require authentication)
-        - if above doesn’t work, provide form to submit request for appointment
+        - allow users to check availability and make appointments through an external scheduling service (probably either vagaro or schedulicity but need to check with Betsy about paying for a service like that versus just scheduling by herself through email/texts)
+        - if above doesn’t work, provide work email and/or phone number for appointment inquiries
 
 What additional tools, frameworks, libraries, APIs, or other resources will these additional features require?
         - Instagram API
-        - authentication (probably with Auth0)
-        - storage for appointments (Firebase or similar?)
+        - ? external scheduling service (vagaro, schedulicity, calendly) ?
 
 Is there anything else you’d like your instructor to know?
-        - I have a friend who is a hairdresser/stylist here in Portland and she doesn’t have a personal website yet. My goal is to build one for her that won’t require a lot of maintenance/updates and can display her talents so that she can attract more clients. Ideally, this would include the ability to schedule an appointment right through the app but that is definitely a stretch goal at this point.
+        - I have a friend who is a hairdresser/stylist here in Portland and she doesn’t have a personal website yet. My goal is to build one for her that won’t require a lot of maintenance/updates and can display her talents so that she can attract more clients. We will have a meeting sometime in the next week or two to go over design principles and potentially using a paid scheduling service to handle making appointments easier for her and her clients.
