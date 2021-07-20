@@ -10,7 +10,9 @@ _This app will serve as a personal website for Betsy Sauer where potential clien
 
 ## Componenet Diagram
 
-(design specs still need to be worked out with Betsy)
+(design specs still need to be worked out with Betsy/are subject to change)
+
+![capstone](https://user-images.githubusercontent.com/80493022/126251985-2fb749ba-13d7-43ba-8dde-ec603f719cb0.png)
 
 ## Setup/Installation Requirements
 
