@@ -1,0 +1,4 @@
+Things still to do:
+  - longer sit-down meeting with Betsy to go over design possibilities/preferences and potential third-party scheduling service
+  - solidify component diagram with feedback from meeting
+  - do further research into/testing of Instagram API https://developers.facebook.com/docs/instagram-basic-display-api/reference/user  https://developers.facebook.com/docs/instagram-basic-display-api/reference/user/media
