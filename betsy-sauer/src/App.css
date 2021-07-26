@@ -7,12 +7,9 @@
   position: sticky;
   position: -webkit-sticky;
   top: 0;
-}
-
-.navbar-items {
-  display: inline-flex;
-  flex-direction: row;
-  align-items: center;
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
 }
 
 .navbar-items:hover {
@@ -23,10 +20,6 @@
   display: block;
   color: white;
   text-align: center;
-  padding: 14px 16px;
+  padding: 5px;
   text-decoration: none;
-}
-
-.active {
-  background-color: chartreuse;
 }
