@@ -10,7 +10,10 @@ class Content extends Component {
   constructor(props) {
     super(props)
     this.state = {
-      currentPage: this.getCurrentLocation()
+      currentPage: this.getCurrentLocation(),
+      error: null,
+      isLoaded: false,
+      instagramMedia: []
     }
   }
 
