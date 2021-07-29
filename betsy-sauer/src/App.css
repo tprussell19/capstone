@@ -47,3 +47,40 @@
   background-position-y: -150px;
   height: 250px;
 }
+
+.home {
+  margin-top: 50px;
+}
+
+.home h4 {
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.contact {
+  display: flex;
+  align-content: space-between;
+}
+
+#map {
+  width: 100%;
+}
+
+.contact-info ul {
+  list-style-type: none;
+  text-align: justify;
+}
+
+.contact-info li {
+  padding-left: 20px;
+  font-style: italic;
+  font-size: small;
+}
+
+.contact-info hr {
+  margin-right: 30px;
+}
+
+.contact-info ul hr {
+  margin-right: 0px;
+}
