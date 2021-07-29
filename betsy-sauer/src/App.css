@@ -94,3 +94,41 @@
 .contact-info ul hr {
   margin-right: 0px;
 }
+
+#appointment hr {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  margin-right: -75px;
+  margin-left: -25px;
+}
+
+#appointment h4 {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.appointment {
+  display: flex;
+  align-content: space-between;
+}
+
+#appointment-image {
+  width: 100%;
+  margin-left: 50px;
+  margin-top: 75px;
+}
+
+#appointment .appointment hr {
+  margin: 10px;
+  margin-left: 0;
+}
+
+.appointment ul li {
+  list-style-type: none;
+  font-style: italic;
+  font-size: small;
+}
+
+.appointment ul {
+  padding-left: 0;
+}
