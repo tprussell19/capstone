@@ -5,6 +5,7 @@ function Home() {
     <div className='container home'>
       <div>
         <h4>I AM OPEN AND TAKING NEW CLIENTS</h4>
+        <hr />
       </div>
       <div className='conatiner contact'>
         <div className='container map'>
