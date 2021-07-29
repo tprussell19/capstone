@@ -33,7 +33,6 @@ class Content extends Component {
 
     return (
       <div>
-        <Header />
         <Navbar navigateTo={this.navigateTo} />
         { this.state.currentPage === 'about' ? <About /> : null }
         { this.state.currentPage === 'appointment' ? <Appointment /> : null }
