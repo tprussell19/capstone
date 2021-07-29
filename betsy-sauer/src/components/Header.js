@@ -17,7 +17,7 @@ class Header extends Component {
     const page = this.state.currentPage;
     switch (page) {
       case ('home'):
-        return <img src={betsy} />
+        return <img src={betsy} alt=''/>
       case ('about'):
         return <h1>about</h1>
       case ('gallery'):
@@ -31,9 +31,14 @@ class Header extends Component {
     }
   }
 
+  componentDidMount() {
+    this.headerImage();
+  }
+
   render() {
+
     return (
-      <div>{this.headerImage()}</div>
+      <div>{this.componentDidMount}</div>
     )
 
   }
