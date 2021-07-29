@@ -24,14 +24,19 @@
   text-decoration: none;
 }
 
+.about {
+  margin-top: 100px;
+  display: flex;
+  align-content: space-between;
+}
+
 #betsy {
-  float: left;
-  margin-top: 50px;
-  margin-left: 0px;
   width: 50%;
+  height: fit-content;
 }
 
 .bio {
-  overflow-wrap: normal;
-  text-align: justify;
+  text-align: left;
+  margin-bottom: 15px;
+  margin-left: 40px;
 }
