@@ -42,9 +42,8 @@
 }
 
 .header {
+  background-image: url("./images/tools.jpg");
+  background-size: cover;
+  background-position-y: -150px;
   height: 250px;
-}
-
-#headerImage {
-  size: cover;
 }
