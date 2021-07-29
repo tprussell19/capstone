@@ -5,6 +5,7 @@ import Appointment from '../pages/Appointment';
 import Gallery from '../pages/Gallery';
 import About from '../pages/About';
 import Products from '../pages/Products';
+import Header from './Header';
 
 class Content extends Component {
   constructor(props) {
@@ -32,6 +33,7 @@ class Content extends Component {
 
     return (
       <div>
+        <Header />
         <Navbar navigateTo={this.navigateTo} />
         { this.state.currentPage === 'about' ? <About /> : null }
         { this.state.currentPage === 'appointment' ? <Appointment /> : null }
