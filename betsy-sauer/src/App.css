@@ -132,3 +132,12 @@
 .appointment ul {
   padding-left: 0;
 }
+
+.products {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.products h4 {
+  margin-bottom: 25px;
+}

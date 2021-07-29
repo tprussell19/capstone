@@ -6,7 +6,7 @@ function Gallery() {
 
   return(
     <div className='container'>
-      <h2>This is the GALLERY page</h2>
+      <p>This page is under construction</p>
     </div>
   )
 }
