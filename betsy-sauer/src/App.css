@@ -54,7 +54,7 @@
 .header {
   background-image: url("./images/tools.jpg");
   background-size: cover;
-  background-position-y: -150px;
+  background-position-y: 25%;
   height: 250px;
 }
 
@@ -115,8 +115,10 @@
 
 #appointment-image {
   width: 100%;
+}
+
+.appointment-image {
   margin-left: 50px;
-  margin-top: 75px;
 }
 
 #appointment .appointment hr {
